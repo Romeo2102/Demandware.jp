@@ -1,1 +1,1 @@
-# myfirstrepo1
+# This Repo is for Demandware.jp (Japan site)
